@@ -16,8 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`7.5.0`](https://github.com/docker-library/kibana/blob/36faeebe8ec7636c02ee060700eb9ec6cd5ed36c/7/Dockerfile)
--	[`6.8.5`](https://github.com/docker-library/kibana/blob/090ae9080dd0bf75597a8f27a314854d06b50cb1/6/Dockerfile)
+**WARNING:** THIS IMAGE *IS NOT SUPPORTED* ON THE `windows-amd64` ARCHITECTURE
+
+[![winamd64/kibana build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/windows-amd64/job/kibana.svg?label=winamd64/kibana%20%20build%20job)](https://doi-janky.infosiftr.net/job/multiarch/job/windows-amd64/job/kibana/)
 
 # Quick reference
 
